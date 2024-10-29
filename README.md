@@ -111,8 +111,8 @@ String name1 = "Katie";
 // The variable, name2, is declared
 String name2;
 
-// The variable, name2, is now initialized to "Emily"
-name2 = "Emily";
+// The variable, name2, is now initialized to "Hua"
+name2 = "Hua";
 ```
 
 When we declare and initialize a variable at the same time, we must put the data
@@ -132,8 +132,8 @@ String name;
    Note: Initialization is referred to the first time a variable is assigned a value */     
 name = "Katie";
 
-// The variable is now being assigned (or re-assigned) to "Emily"
-name = "Emily";
+// The variable is now being assigned (or re-assigned) to "Hua"
+name = "Hua";
 ```
 
 It is important to note that in order to use the variable, it must be
@@ -190,7 +190,7 @@ public class Main {
         System.out.println(name);
         
         // Change the variable's value
-        name = "Emily";
+        name = "Hua";
         System.out.println(name);
     }
 }
@@ -201,10 +201,10 @@ public class Main {
 
   <p>Answer: <br>
      <p><code>Katie</code></p>
-     <p style="margin-top: -18px"><code>Emily</code></p>
+     <p style="margin-top: -18px"><code>Hua</code></p>
   </p>
 
-  <p>We re-assign the variable <code>name</code> to "Emily" halfway through the program. Therefore, when we do that, if we print out the <code>name</code>variable again, it will now print the re-assigned value.</p>
+  <p>We re-assign the variable <code>name</code> to "Hua" halfway through the program. Therefore, when we do that, if we print out the <code>name</code>variable again, it will now print the re-assigned value.</p>
 
 </details>
 
